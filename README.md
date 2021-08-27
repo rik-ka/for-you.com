@@ -1,1 +1,1 @@
-# for-you.com
+# for-you
